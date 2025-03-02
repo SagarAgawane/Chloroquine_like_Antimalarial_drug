@@ -31,9 +31,9 @@ I Performed and executed molecular similarity search of Chloroquine molecule in 
 
 Molecules Which are Closest to chloroquine in structure as well as functionality are:
 
-1) 2-N-(3-chlorophenyl)-4-N-(furan-2-ylmethyl)quinazoline2,4-diamine ,
+1) 2-N-(3-chlorophenyl)-4-N-(furan-2-ylmethyl)quinazoline-2,4-diamine ,
      Molecule ID - 1285085
-2) N,N-diethyl-5-pyridin4-yliminobenzo[a]phenoxazin-9-amine ,
+2) N,N-diethyl-5-pyridin-4-yliminobenzo[a]phenoxazin-9-amine ,
      Molecule ID - 44226912
 3) 1-(3,4-dichlorophenyl)-8-methyl-N-[2-(methylamino)ethyl]-9H-pyrido[3,4-b]indole-3-carboxamide ,
      Molecule ID - 156869265
